@@ -1,0 +1,19 @@
+{
+  "name": "calc-njs",
+  "productName": "Calc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "set NODE_ENV=development&& electron .",
+    "pack": "electron-packager . --platform=win32 --arch=ia32 --overwrite"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^1.6.2"
+  },
+  "devDependencies": {
+    "electron-packager": "^8.6.0"
+  }
+}
