@@ -4,6 +4,12 @@ by electron &amp; JS
 
 利用 Node.js 所寫的計算機程式。
 
+## Install
+
+```bash
+$ npm install
+```
+
 ## Run
 
 ```bash
